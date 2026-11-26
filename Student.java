@@ -1,4 +1,4 @@
-// Lop Student - Sua tren nhanh main
+// Lop Student - Da xu ly conflict merge
 public class Student {
     private String maSV;
     private String hoTen;
@@ -8,6 +8,10 @@ public class Student {
         this.maSV = maSV;
         this.hoTen = hoTen;
         this.ngaySinh = ngaySinh;
+    }
+
+    public String getMaSV() {
+        return maSV;
     }
 
     public void display() {
