@@ -1,3 +1,4 @@
+// Lop Student - Sua tren nhanh main
 public class Student {
     private String maSV;
     private String hoTen;
